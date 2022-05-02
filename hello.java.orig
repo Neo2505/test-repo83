@@ -1,0 +1,13 @@
+class hello
+{
+    public static void main()
+}
+{
+<<<<<<< HEAD
+	system.out.println("hello, hanu-laxmi cis")
+}
+=======
+	system.out.println("hello, hanu-telgavati cis")
+} 
+>>>>>>> be516316d9ae316d940444f17d7d73025c2a666f
+
